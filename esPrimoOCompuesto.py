@@ -1,7 +1,6 @@
 """
 Archivo: esPrimoOCompuesto.py
 Descripción: Indentifica si el número introduncido es primo o compuesto.
-Autor: JMLV
 Fecha: 15/10/2026
 """
 import math

@@ -1,15 +1,3 @@
-""" 
-
-Archivo: blackjack.py
-
-Descripción: Programa para jugar blackjack en una interfaz gráfica.
-
-Autores: José Manuel López Villalejos y Armenta Caballero Christopher 
-
-Fecha: 11/11/2026 
-
-""" 
-
 import random
 import sys
 import pygame
