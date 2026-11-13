@@ -1,5 +1,6 @@
 import math
 
+# Programa para calcular area de distintas figuras.
 print('''Elige una opción:
 0) Salir del programa
 1) Calcular el área de un tríangulo

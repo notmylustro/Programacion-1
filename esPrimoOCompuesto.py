@@ -6,6 +6,7 @@ Fecha: 15/10/2026
 """
 import math
 
+# Programa que determina si es primo o compuesto.
 num = int(input('Introduce un numero entero mayor a 1: '))
 
 while True:
