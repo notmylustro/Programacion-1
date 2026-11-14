@@ -8,5 +8,9 @@ programa se encuentra en su propia carpeta.
 Programa en python que determina si una frase o palabra es palindromo.
 ### blackjack.py
 Programa hecho en pygame que permite al usuario jugar al blackjack en un tablero.
-### Calculadora
-Realiza operaciones aritméticas básicas.
+### calcularAreas.py
+Pograma para calcular el área de las figuras indicadas.
+### esPrimoOCompuesto.pý
+Programa para determinar si un numero es primo o compuesto.
+### NuevoArchivo.py
+Archivo de pruenba.
